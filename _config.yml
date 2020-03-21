@@ -3,12 +3,12 @@
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-paginate-v2
-
+  - jekyll-paginate
 exclude:
   - "/vendor/"
 
 # Site settings
+paginate: 5
 title: mado's diary
 subtitle: "まどれーぬのブログです"
 email: madoreenu314@gmail.com
@@ -29,7 +29,7 @@ permalink: "/:year/:month/:day/:title"
 # Build settings
 markdown: kramdown
 inter_post_navigation: false
-highlightjs_theme: "zenburn""
+highlightjs_theme: "zenburn"
 
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
