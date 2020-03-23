@@ -2,7 +2,7 @@
 layout: post
 title: JekyllのテーマをCentrariumにしたい人へ
 date: 2020-03-21 21:35
-tags: Jekyll
+categories: Jekyll
 ---
 
 今月頭からこのサイトは[minima](https://github.com/jekyll/minima/)というテーマを使っていたのですが、見た目が単調すぎるので、いつかググって見つけた記事、[Jekyll themeをCentrariumに変更する](https://haltaro.github.io/2018/02/11/theme-change)を参考にさせていただいてこの方と同じようなかっこいいブログサイトにしたい、[Centrarium](https://github.com/bencentra/centrarium)テーマを使いたいな〜と思ったりしていました。

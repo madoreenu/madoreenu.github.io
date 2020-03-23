@@ -54,7 +54,7 @@ models:
       - type: list
         name: exclude
         label: Exclude
-        items: 
+        items:
           type: string
       - type: string
         name: markdown
@@ -69,7 +69,7 @@ models:
       - type: object
         name: pagination
         label: Pagination
-        fields: 
+        fields:
           - type: boolean
             name: enabled
             label: Enable Pagination
@@ -84,7 +84,7 @@ models:
             label: Sort Reverse
       - type: object
         name: jekyll-archives
-        label: Jekyll Archives 
+        label: Jekyll Archives
         fields:
           - type: list
             name: enabled
@@ -240,10 +240,3 @@ models:
       - type: image
         name: cover
         label: Cover Image
-
-
-
-
-
-
-

@@ -2,7 +2,7 @@
 layout: post
 title: CSSをカスタマイズしようと思ったら
 date: 2020-03-06 0:45
-tags: Jekyll css
+categories: Jekyll css
 ---
 
 このところJekyllのテーマ、minimaのリポジトリのコードと格闘する日々が続いていました。
