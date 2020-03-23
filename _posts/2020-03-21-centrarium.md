@@ -13,7 +13,7 @@ categories: Jekyll
 
 この記事を参考にしながら個人設定を自分用に設定してローカルテストも終えいざコミット。
 
-そこで自分のサイトhttps://madoreenu.github.io にアクセスしてみると、
+そこで自分のサイト`https://madoreenu.github.io`にアクセスしてみると、
 
 ![失敗](/assets/miss.png)
 
