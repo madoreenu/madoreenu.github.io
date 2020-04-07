@@ -6,7 +6,7 @@ main_nav: true
 ---
 # Contact
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdytGJqJSk9wTUusJ_Sx0_c4ETI6xYHGOl_zKJTelC1TzLEng/viewform?embedded=true" width="650" height="677" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdytGJqJSk9wTUusJ_Sx0_c4ETI6xYHGOl_zKJTelC1TzLEng/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 <br>
 # Policy
 
