@@ -223,6 +223,9 @@ pre code.hljs {
 	/*
 	*	index.html
 	*/
+	.post-link{
+		font-size: 0.8em;
+	}
 	.post-list {
 		padding-top: 1em !important;
 		@extend %default-ul;
