@@ -43,6 +43,8 @@ p {
 }
 
 a {
+  //ホームのpostsの見出しを小さくした↓
+  font-size: modular-scale(-1);
   color: $action-color;
   text-decoration: none;
   // transition: color 0.1s linear;
