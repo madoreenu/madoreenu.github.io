@@ -8,7 +8,7 @@ pagination:
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
+      <h5 class="title">{{ site.title }}</h5>
       {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     </header>
   </div>
@@ -18,9 +18,9 @@ pagination:
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li>
-    <h2>
+    <h1> <!--元はh2だった-->
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
+    </h1>
     <section class="post-excerpt" itemprop="description">
       <!--<p>{{ post.content | strip_html | truncatewords: 50 }}</p>-->
       <p>{{ post.excerpt }}</p>

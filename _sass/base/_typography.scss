@@ -7,7 +7,8 @@ body {
   line-height: $base-line-height;
 }
 
-h1{font-family: $sedgwick;}
+
+h1{font-family: YuGothic;}
 h2,
 h3,
 h4,
@@ -21,22 +22,25 @@ h6 {
 }
 h1 {
   //もともと４
-	font-size: modular-scale(4);
-}
-h2 {
 	font-size: modular-scale(3);
 }
-h3 {
+h2 {
 	font-size: modular-scale(2);
 }
-h4 {
+h3 {
 	font-size: modular-scale(1);
 }
+h4 {
+	font-size: modular-scale(0);
+}
 h5 {
-	font-size: modular-scale(-1);
+	font-size: modular-scale(5);
+  padding-top: 38px;
+  margin-bottom: 40px;
+  font-family: $sedgwick;
 }
 h6 {
-	font-size: modular-scale(-2);
+	font-size: modular-scale(-3);
 }
 
 p {
