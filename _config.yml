@@ -28,6 +28,7 @@ permalink: "/:year/:month/:day/:title"
 markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "zenburn"
+timezone: Asia/Tokyo
 
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
